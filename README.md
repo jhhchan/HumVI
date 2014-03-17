@@ -12,6 +12,7 @@ Authors
 * Phil Marshall (Oxford) <dr.phil.marshall@gmail.com>
 * Cato Sandford (NYU)
 * Anupreeta More (IPMU)
+* James H.H. Chan (ASIAA)
 
 Date
 ----
